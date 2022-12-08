@@ -1,2 +1,2 @@
-# test
-Workshop
+# Workshop_LiaScript
+Workshop by Joy Payton
